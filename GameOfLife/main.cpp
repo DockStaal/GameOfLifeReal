@@ -5,8 +5,9 @@
 int main()
 {
 	Life life = Life();
+	char input = 't';
 	while (0)
 	{
-
+		
 	}
 }
