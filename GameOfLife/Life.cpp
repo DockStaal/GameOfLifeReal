@@ -17,7 +17,7 @@ Life::Life()
 	}
 	windowHeight = 25;
 	windowWidth = 80;
-	percentage = 50;
+	percentage = 100;
 	stepSize = 1;
 	life = 'O';
 	death = '-';

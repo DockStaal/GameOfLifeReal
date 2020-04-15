@@ -5,13 +5,8 @@
 int main()
 {
 	Life life = Life();
-	life.randomizeWorld();
-	life.print();
-	
-	for (int i = 0; i <= 500; i++)
+	while (0)
 	{
-		life.nextGen();
-		life.print();
-		Sleep(30);
+
 	}
 }
