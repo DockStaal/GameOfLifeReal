@@ -1,13 +1,9 @@
 #include <iostream>
-#include "Life.h"
+#include "Menu.h"
 #include "windows.h"
 
 int main()
 {
-	Life life = Life();
-	char input = 't';
-	while (0)
-	{
-		
-	}
+	Menu menu = Menu();
+	menu.options();
 }
